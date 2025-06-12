@@ -13,6 +13,7 @@ export default function About() {
     { name: "About", href: "/about" },
     { name: "Contact", href: "/contact" },
   ];
+  
 
   return (
     <>
